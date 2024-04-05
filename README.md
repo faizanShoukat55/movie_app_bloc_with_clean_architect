@@ -1,4 +1,4 @@
-# first_flutter_project
+# movie_app_bloc_with_clean_architect
 
 A new Flutter project.
 
